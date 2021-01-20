@@ -7,3 +7,4 @@ User can delete,edit,like his/her posts also.
 
 Application is live here :- https://create-your-memory.netlify.app/
 
+![registration page](/screenshots/1.png?raw=true "registration page")
